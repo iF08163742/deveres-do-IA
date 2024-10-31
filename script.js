@@ -26,11 +26,11 @@ const perguntas =
         alternativas, [
     {
                 texto: "Eu entro em crise e saio correndo sem direção e abandono o carro."
-                afirmacao: "afirmação",
+                ,afirmacao: "afirmação",
                
     }
-    {
-                texto: "Eu tento o mais rápido possível ligar para alguém que possa me socorrer."
+    ,{
+                texto: "Eu tento o mais rápido possível ligar para alguém que possa me socorrer.",
                 afirmacao: "afirmação"
             }
         ]
